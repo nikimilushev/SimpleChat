@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Niki\Documents\SimpleChat</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/06/2016 00:56:43</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/06/2016 00:56:43</publishTime>
+    </File>
+    <File Include="bin/SimpleChat.Chat.dll">
+      <publishTime>03/07/2016 19:18:10</publishTime>
+    </File>
+    <File Include="bin/SimpleChat.ChatServer.dll">
+      <publishTime>03/08/2016 23:01:56</publishTime>
+    </File>
+    <File Include="bin/SimpleChat.DI.dll">
+      <publishTime>03/07/2016 19:18:11</publishTime>
+    </File>
+    <File Include="bin/SimpleChat.Model.dll">
+      <publishTime>03/07/2016 19:18:07</publishTime>
+    </File>
+    <File Include="bin/SimpleChat.SQL.dll">
+      <publishTime>03/07/2016 19:18:09</publishTime>
+    </File>
+    <File Include="bin/StructureMap.dll">
+      <publishTime>03/04/2016 00:10:43</publishTime>
+    </File>
+    <File Include="ChatService.svc">
+      <publishTime>03/04/2016 00:10:28</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/08/2016 23:01:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

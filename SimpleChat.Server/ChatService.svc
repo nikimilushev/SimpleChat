@@ -1,0 +1,5 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" 
+    Service="SimpleChat.Server.ChatService" 
+    CodeBehind="ChatService.svc.cs" 
+    Factory="SimpleChat.DI.StructureMapServiceHostFactory"
+    %>
