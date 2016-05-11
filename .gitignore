@@ -3,3 +3,21 @@
 ################################################################################
 
 /packages
+/SimpleChat.Chat/bin/Debug
+/SimpleChat.Chat/obj/Debug
+/SimpleChat.Client/bin/Debug
+/SimpleChat.Client/obj/Debug
+/SimpleChat.DI/bin/Debug
+/SimpleChat.DI/obj/Debug
+/.vs/SimpleChat/v14/.suo
+/.vs/config/applicationhost.config
+/SimpleChat.Model/bin/Debug
+/SimpleChat.Model/obj/Debug
+/SimpleChat.Server/bin
+/SimpleChat.Server/obj/Debug
+/SimpleChat.SQL/bin/Debug
+/SimpleChat.SQL/obj/Debug
+/SimpleChat.Test/bin/Debug
+/SimpleChat.Test/obj/Debug
+/SimpleChat.UI/bin/Debug
+/SimpleChat.UI/obj/Debug

@@ -1,14 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleChat.Test", "SimpleChat.Test\SimpleChat.Test.csproj", "{14CBAA88-1A65-4DF2-8C79-11F0E5BB9DF1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{50F70C80-9CCB-4547-AD39-D4F8505409F1}"
 	ProjectSection(SolutionItems) = preProject
 		CreateDatabase.sql = CreateDatabase.sql
-		Readme.txt = Readme.txt
+		Readme.md = Readme.md
 		sqls.sql = sqls.sql
 	EndProjectSection
 EndProject
